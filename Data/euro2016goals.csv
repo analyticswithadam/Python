@@ -1,0 +1,77 @@
+FULL_NAME,AGE,LEAGUE,SEASON,POSITION,CURRENT_CLUB,MINUTES_PLAYED_OVERALL,MINUTES_PLAYED_HOME,MINUTES_PLAYED_AWAY,NATIONALITY,APPEARANCES_OVERALL,APPEARANCES_HOME,APPEARANCES_AWAY,GOALS_OVERALL,GOALS_HOME,GOALS_AWAY,ASSISTS_OVERALL,ASSISTS_HOME,ASSISTS_AWAY,PENALTY_GOALS,PENALTY_MISSES,CLEAN_SHEETS_OVERALL,CLEAN_SHEETS_HOME,CLEAN_SHEETS_AWAY,CONCEDED_OVERALL,CONCEDED_HOME,CONCEDED_AWAY,YELLOW_CARDS_OVERALL,RED_CARDS_OVERALL,GOALS_INVOLVED_PER_90_OVERALL,ASSISTS_PER_90_OVERALL,GOALS_PER_90_OVERALL,GOALS_PER_90_HOME,GOALS_PER_90_AWAY,MIN_PER_GOAL_OVERALL,CONCEDED_PER_90_OVERALL,MIN_PER_CONCEDED_OVERALL,MIN_PER_MATCH,MIN_PER_CARD_OVERALL,MIN_PER_ASSIST_OVERALL,CARDS_PER_90_OVERALL
+Aaron Ramsey,30,UEFA Euro Championship,2016,Midfielder,Wales,448,268,180,Wales,5,3,2,1,0,1,4,3,1,0,0,2,1,1,3,2,1,2,0,1,0.8,0.2,0,0.5,448,0.6,149,90,224,112,0.4
+Adam Szalai,33,UEFA Euro Championship,2016,Forward,Hungary,235,161,74,Hungary,4,2,2,1,0,1,0,0,0,0,0,1,0,1,6,6,0,1,0,0.38,0,0.38,0,1.22,235,2.3,39,59,235,0,0.38
+Admir Mehmedi,30,UEFA Euro Championship,2016,Forward,Switzerland,308,156,152,Switzerland,4,2,2,1,0,1,0,0,0,0,0,2,1,1,2,1,1,0,0,0.29,0,0.29,0,0.59,308,0.58,154,77,0,0,0
+Alessandro Schoepf,27,UEFA Euro Championship,2016,Midfielder,Austria,81,12,69,Austria,3,1,2,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1.11,0,1.11,0,1.3,81,1.11,81,27,81,0,1.11
+Alvaro Morata,28,UEFA Euro Championship,2016,Forward,Spain,289,152,137,Spain,4,2,2,3,2,1,0,0,0,0,0,2,2,0,2,0,2,0,0,0.93,0,0.93,1.18,0.66,96,0.62,145,72,0,0,0
+Antoine Griezmann,30,UEFA Euro Championship,2016,Forward,France,525,268,257,France,7,4,3,6,4,2,2,2,0,1,0,3,1,2,4,4,0,0,0,1.37,0.34,1.03,1.34,0.7,88,0.69,131,75,0,263,0
+Arkadiusz Milik,27,UEFA Euro Championship,2016,Forward,Poland,450,180,270,Poland,5,2,3,1,1,0,1,0,1,0,0,3,1,2,2,1,1,0,0,0.4,0.2,0.2,0.5,0,450,0.4,225,90,0,450,0
+Armando Sadiku,29,UEFA Euro Championship,2016,Forward,Albania,231,82,149,Albania,3,1,2,1,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0.39,0,0.39,0,0.6,231,0.39,231,77,0,0,0
+Traustason,27,UEFA Euro Championship,2016,Midfielder,Iceland,11,10,1,Iceland,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.18,0,8.18,9,0,11,0,0,6,0,0,0
+Ashley Williams,36,UEFA Euro Championship,2016,Defender,Wales,540,270,270,Wales,6,3,3,1,1,0,0,0,0,0,0,2,1,1,5,2,3,0,0,0.17,0,0.17,0.33,0,540,0.83,108,90,0,0,0
+Axel Witsel,32,UEFA Euro Championship,2016,Midfielder,Belgium,450,180,270,Belgium,5,2,3,1,1,0,0,0,0,0,0,3,1,2,4,1,3,1,0,0.2,0,0.2,0.5,0,450,0.8,113,90,450,0,0.2
+Balazs Dzsudzsak,34,UEFA Euro Championship,2016,Midfielder,Hungary,360,180,180,Hungary,4,2,2,2,2,0,0,0,0,0,0,1,0,1,7,6,1,1,0,0.5,0,0.5,1,0,180,1.75,51,90,360,0,0.25
+Bastian Schweinsteiger,36,UEFA Euro Championship,2016,Midfielder,Germany,188,167,21,Germany,5,4,1,1,1,0,0,0,0,0,0,3,2,1,3,3,0,2,0,0.48,0,0.48,0.54,0,188,1.44,63,38,94,0,0.96
+Birkir Bjarnason,32,UEFA Euro Championship,2016,Midfielder,Iceland,450,180,270,Iceland,5,2,3,2,0,2,0,0,0,0,0,0,0,0,9,2,7,2,0,0.4,0,0.4,0,0.67,225,1.8,50,90,225,0,0.4
+Bogdan Sorin Stancu,33,UEFA Euro Championship,2016,Forward,Romania,264,174,90,Romania,3,2,1,2,1,1,0,0,0,2,0,0,0,0,4,2,2,0,0,0.68,0,0.68,0.52,1,132,1.36,66,88,0,0,0
+Burak yilmaz,35,UEFA Euro Championship,2016,Forward,Turkey,205,25,180,Turkey,3,1,2,1,0,1,0,0,0,0,0,1,0,1,3,0,3,1,0,0.44,0,0.44,0,0.5,205,1.32,68,68,205,0,0.44
+Cristiano Ronaldo,36,UEFA Euro Championship,2016,Forward,Portugal,565,295,270,Portugal,7,4,3,3,1,2,2,1,1,0,1,4,3,1,5,1,4,1,0,0.8,0.32,0.48,0.31,0.67,188,0.8,113,81,565,283,0.16
+Daniel Sturridge,31,UEFA Euro Championship,2016,Forward,England,210,134,76,England,3,2,1,1,1,0,0,0,0,0,0,1,0,1,2,2,0,1,0,0.43,0,0.43,0.67,0,210,0.86,105,70,210,0,0.43
+Denis Glushakov,34,UEFA Euro Championship,2016,Midfielder,Russia,144,134,10,Russia,3,2,1,1,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0.63,0,0.63,0.67,0,144,1.88,48,48,0,0,0
+Dimitri Payet,34,UEFA Euro Championship,2016,Midfielder,France,506,350,156,France,7,4,3,3,3,0,2,2,0,0,0,3,1,2,3,3,0,0,0,0.89,0.36,0.53,0.77,0,169,0.53,169,72,0,253,0
+Eden Hazard,30,UEFA Euro Championship,2016,Midfielder,Belgium,441,180,261,Belgium,5,2,3,1,0,1,4,1,3,0,0,3,1,2,4,1,3,0,0,1.02,0.82,0.2,0,0.34,441,0.82,110,88,0,110,0
+Eder Citadin Martins,34,UEFA Euro Championship,2016,Forward,Italy,355,172,183,Italy,4,2,2,1,1,0,0,0,0,0,0,3,2,1,1,0,1,1,0,0.25,0,0.25,0.52,0,355,0.25,355,89,355,0,0.25
+Yannick Carrasco,33,UEFA Euro Championship,2016,Forward,Portugal,24,24,0,Portugal,3,3,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,3.75,0,3.75,3.75,0,24,0,0,8,0,0,0
+Emanuele Giaccherini,35,UEFA Euro Championship,2016,Midfielder,Italy,360,180,180,Italy,4,2,2,1,0,1,1,1,0,0,0,3,2,1,1,0,1,1,0,0.5,0.25,0.25,0,0.5,360,0.25,360,90,360,360,0.25
+Eric Dier,27,UEFA Euro Championship,2016,Midfielder,England,316,226,90,England,4,3,1,1,1,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0.28,0,0.28,0.4,0,316,0.85,105,79,0,0,0
+Fabian Schar,29,UEFA Euro Championship,2016,Defender,Switzerland,360,180,180,Switzerland,4,2,2,1,0,1,0,0,0,0,0,2,1,1,2,1,1,2,0,0.25,0,0.25,0,0.5,360,0.5,180,90,180,0,0.5
+Gareth Bale,31,UEFA Euro Championship,2016,Forward,Wales,533,270,263,Wales,6,3,3,3,1,2,0,0,0,0,0,2,1,1,5,2,3,1,0,0.51,0,0.51,0.33,0.68,178,0.84,107,89,533,0,0.17
+Gareth McAuley,41,UEFA Euro Championship,2016,Defender,Northern Ireland,354,90,264,Northern Ireland,4,1,3,1,0,1,0,0,0,0,0,1,0,1,3,1,2,0,0,0.25,0,0.25,0,0.34,354,0.76,118,89,0,0,0
+Gerard Pique,34,UEFA Euro Championship,2016,Defender,Spain,360,180,180,Spain,4,2,2,1,1,0,0,0,0,0,0,2,2,0,3,0,3,0,0,0.25,0,0.25,0.5,0,360,0.75,120,90,0,0,0
+Giorgio Chiellini,36,UEFA Euro Championship,2016,Defender,Italy,390,180,210,Italy,4,2,2,1,1,0,0,0,0,0,0,3,2,1,1,0,1,1,0,0.23,0,0.23,0.5,0,390,0.23,390,98,390,0,0.23
+Graziano Pelle,35,UEFA Euro Championship,2016,Forward,Italy,330,150,180,Italy,4,2,2,2,1,1,0,0,0,0,0,3,2,1,1,0,1,2,0,0.55,0,0.55,0.6,0.5,165,0.27,330,83,165,0,0.55
+Gylfi Sigurdsson,31,UEFA Euro Championship,2016,Midfielder,Iceland,450,180,270,Iceland,5,2,3,1,1,0,1,0,1,1,0,0,0,0,9,2,7,1,0,0.4,0.2,0.2,0.5,0,450,1.8,50,90,450,450,0.2
+Hal Robson-Kanu,31,UEFA Euro Championship,2016,Forward,Wales,269,134,135,Wales,5,3,2,2,2,0,0,0,0,0,0,1,1,0,4,1,3,0,0,0.67,0,0.67,1.34,0,135,1.34,67,54,0,0,0
+Ivan Periisic,32,UEFA Euro Championship,2016,Midfielder,Croatia,357,180,177,Croatia,4,2,2,2,1,1,1,1,0,0,0,1,0,1,3,1,2,1,0,0.76,0.25,0.5,0.5,0.51,179,0.76,119,89,357,357,0.25
+Ivan Rakiitic,33,UEFA Euro Championship,2016,Midfielder,Croatia,379,200,179,Croatia,4,2,2,1,0,1,0,0,0,0,0,1,0,1,3,1,2,0,0,0.24,0,0.24,0,0.5,379,0.71,126,95,0,0,0
+Jakub blaszczykowski,35,UEFA Euro Championship,2016,Midfielder,Poland,384,170,214,Poland,5,2,3,2,0,2,1,1,0,0,0,3,1,2,2,1,1,0,0,0.7,0.23,0.47,0,0.84,192,0.47,192,77,0,384,0
+Jamie Vardy,34,UEFA Euro Championship,2016,Forward,England,164,74,90,England,3,2,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0.55,0,0.55,1.22,0,164,0,0,55,0,0,0
+Jerome Boateng,32,UEFA Euro Championship,2016,Defender,Germany,478,402,76,Germany,6,5,1,1,1,0,0,0,0,0,0,4,3,1,2,2,0,1,0,0.19,0,0.19,0.22,0,478,0.38,239,80,478,0,0.19
+Jon Davi Bodvarsson,28,UEFA Euro Championship,2016,Forward,Iceland,365,140,225,Iceland,5,2,3,1,1,0,1,0,1,0,0,0,0,0,7,1,6,0,0,0.49,0.25,0.25,0.64,0,365,1.73,52,73,0,365,0
+Julian Draxler,27,UEFA Euro Championship,2016,Midfielder,Germany,330,330,0,Germany,5,5,0,1,1,0,1,1,0,0,0,3,3,0,3,3,0,1,0,0.55,0.27,0.27,0.27,0,330,0.82,110,66,330,330,0.27
+Kolbeinn Sigarsson,31,UEFA Euro Championship,2016,Forward,Iceland,405,164,241,Iceland,5,2,3,2,0,2,0,0,0,0,0,0,0,0,8,1,7,1,0,0.44,0,0.44,0,0.75,203,1.78,51,81,405,0,0.22
+Leonardo Bonucci,33,UEFA Euro Championship,2016,Defender,Italy,450,270,180,Italy,5,3,2,1,0,1,1,0,1,1,0,3,2,1,2,1,1,1,0,0.4,0.2,0.2,0,0.5,450,0.4,225,90,450,450,0.2
+Luis Carlos Almeida da Cunha,34,UEFA Euro Championship,2016,Midfielder,Portugal,616,355,261,Portugal,7,4,3,3,2,1,1,0,1,0,0,4,3,1,5,1,4,0,0,0.58,0.15,0.44,0.51,0.34,205,0.73,123,88,0,616,0
+Luka Modic,35,UEFA Euro Championship,2016,Midfielder,Croatia,242,90,152,Croatia,3,1,2,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0.37,0,0.37,0,0.59,242,0,0,81,0,0,0
+Marek Hamsik,33,UEFA Euro Championship,2016,Midfielder,Slovakia,360,90,270,Slovakia,4,1,3,1,0,1,1,0,1,0,0,1,1,0,6,0,6,0,0,0.5,0.25,0.25,0,0.33,360,1.5,60,90,0,360,0
+Mario Gomez,35,UEFA Euro Championship,2016,Forward,Germany,270,180,90,Germany,4,3,1,2,1,1,0,0,0,0,0,3,2,1,0,0,0,0,0,0.67,0,0.67,0.5,1,135,0,0,68,0,0,0
+Mesut Ozil,32,UEFA Euro Championship,2016,Midfielder,Germany,540,450,90,Germany,6,5,1,1,1,0,1,1,0,0,1,4,3,1,3,3,0,2,0,0.33,0.17,0.17,0.2,0,540,0.5,180,90,270,540,0.33
+Michy Batshuayi,27,UEFA Euro Championship,2016,Forward,Belgium,21,0,21,Belgium,2,0,2,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,4.29,0,4.29,0,4.29,21,4.29,21,11,21,0,4.29
+Milan Skoda,35,UEFA Euro Championship,2016,Forward,Czech Republic,57,57,0,Czech Republic,2,2,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1.58,0,1.58,1.58,0,57,1.58,57,29,0,0,0
+Neil Taylor,32,UEFA Euro Championship,2016,Defender,Wales,540,270,270,Wales,6,3,3,1,0,1,0,0,0,0,0,2,1,1,5,2,3,1,0,0.17,0,0.17,0,0.33,540,0.83,108,90,540,0,0.17
+Niall McGinn,33,UEFA Euro Championship,2016,Midfielder,Northern Ireland,38,6,32,Northern Ireland,3,1,2,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,2.37,0,2.37,0,2.81,38,0,0,13,0,0,0
+Nikola KaliniÄa,33,UEFA Euro Championship,2016,Forward,Croatia,92,92,0,Croatia,2,2,0,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1.96,0.98,0.98,0.98,0,92,0.98,92,46,0,92,0
+Nolito,34,UEFA Euro Championship,2016,Forward,Spain,278,172,106,Spain,4,2,2,1,1,0,1,1,0,0,0,2,2,0,2,0,2,1,0,0.65,0.32,0.32,0.52,0,278,0.65,139,70,278,278,0.32
+Olivier Giroud,34,UEFA Euro Championship,2016,Forward,France,456,300,156,France,6,4,2,3,3,0,2,2,0,0,0,2,1,1,3,3,0,1,0,0.99,0.39,0.59,0.9,0,152,0.59,152,76,456,228,0.2
+Ondrej Duda,26,UEFA Euro Championship,2016,Midfielder,Slovakia,154,57,97,Slovakia,3,1,2,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0.58,0,0.58,0,0.93,154,0.58,154,51,0,0,0
+Ozan Tufan,26,UEFA Euro Championship,2016,Midfielder,Turkey,270,90,180,Turkey,3,1,2,1,0,1,0,0,0,0,0,1,0,1,4,1,3,1,0,0.33,0,0.33,0,0.5,270,1.33,68,90,270,0,0.33
+Paul Pogba,28,UEFA Euro Championship,2016,Midfielder,France,571,301,270,France,7,4,3,1,1,0,0,0,0,0,0,3,1,2,4,4,0,1,0,0.16,0,0.16,0.3,0,571,0.63,143,82,571,0,0.16
+Radja Nainggolan,32,UEFA Euro Championship,2016,Midfielder,Belgium,365,95,270,Belgium,5,2,3,2,0,2,1,0,1,0,0,3,1,2,4,1,3,0,0,0.74,0.25,0.49,0,0.67,183,0.99,91,73,0,365,0
+Ragnar Sigurson,34,UEFA Euro Championship,2016,Defender,Iceland,450,180,270,Iceland,5,2,3,1,0,1,0,0,0,0,0,0,0,0,9,2,7,0,0,0.2,0,0.2,0,0.33,450,1.8,50,90,0,0,0
+Renato Sanches,23,UEFA Euro Championship,2016,Midfielder,Portugal,346,172,174,Portugal,6,3,3,1,0,1,0,0,0,0,0,3,2,1,3,0,3,0,0,0.26,0,0.26,0,0.52,346,0.78,115,58,0,0,0
+Ricardo Andrade Quaresma Bernardo,37,UEFA Euro Championship,2016,Midfielder,Portugal,196,154,42,Portugal,7,4,3,1,0,1,1,0,1,0,0,4,3,1,0,0,0,1,0,0.92,0.46,0.46,0,2.14,196,0,0,28,196,196,0.46
+Robbie Brady,29,UEFA Euro Championship,2016,Midfielder,Republic of Ireland,360,90,270,Republic of Ireland,4,1,3,2,0,2,0,0,0,1,0,1,0,1,6,1,5,0,0,0.5,0,0.5,0,0.67,180,1.5,60,90,0,0,0
+Robert Lewandowski,32,UEFA Euro Championship,2016,Forward,Poland,450,180,270,Poland,5,2,3,1,1,0,0,0,0,0,0,3,1,2,2,1,1,0,0,0.2,0,0.2,0.5,0,450,0.4,225,90,0,0,0
+Romelu Lukaku,27,UEFA Euro Championship,2016,Forward,Belgium,401,155,246,Belgium,5,2,3,2,2,0,0,0,0,0,0,3,1,2,3,1,2,0,0,0.45,0,0.45,1.16,0,201,0.67,134,80,0,0,0
+Sam Vokes,31,UEFA Euro Championship,2016,Forward,Wales,187,65,122,Wales,4,2,2,1,1,0,0,0,0,0,0,2,1,1,0,0,0,1,0,0.48,0,0.48,1.38,0,187,0,0,47,187,0,0.48
+Shkodran Mustafi,28,UEFA Euro Championship,2016,Defender,Germany,119,119,0,Germany,2,2,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0.76,0,0.76,0.76,0,119,0.76,119,60,0,0,0
+Toby Alderweireld,32,UEFA Euro Championship,2016,Defender,Belgium,450,180,270,Belgium,5,2,3,1,0,1,0,0,0,0,0,3,1,2,4,1,3,1,0,0.2,0,0.2,0,0.33,450,0.8,113,90,450,0,0.2
+Tomas Necid,31,UEFA Euro Championship,2016,Forward,Czech Republic,169,94,75,Czech Republic,3,2,1,1,1,0,0,0,0,1,0,0,0,0,2,2,0,0,0,0.53,0,0.53,0.96,0,169,1.07,85,56,0,0,0
+Vasili Berezutski,38,UEFA Euro Championship,2016,Defender,Russia,226,136,90,Russia,3,2,1,1,0,1,0,0,0,0,0,0,0,0,5,4,1,0,0,0.4,0,0.4,0,1,226,1.99,45,75,0,0,0
+Vladimir Weiss,31,UEFA Euro Championship,2016,Forward,Slovakia,279,78,201,Slovakia,4,1,3,1,0,1,1,0,1,0,0,1,1,0,4,0,4,1,0,0.65,0.32,0.32,0,0.45,279,1.29,70,70,279,279,0.32
+Wayne Rooney,35,UEFA Euro Championship,2016,Forward,England,288,254,34,England,4,3,1,1,1,0,0,0,0,1,0,1,0,1,3,3,0,0,0,0.31,0,0.31,0.35,0,288,0.94,96,72,0,0,0
+Wes Hoolahan,38,UEFA Euro Championship,2016,Midfielder,Republic of Ireland,181,78,103,Republic of Ireland,4,1,3,1,1,0,1,0,1,0,0,1,0,1,4,1,3,0,0,0.99,0.5,0.5,1.15,0,181,1.99,45,45,0,181,0
+Xherdan Shaqiri,29,UEFA Euro Championship,2016,Midfielder,Switzerland,347,169,178,Switzerland,4,2,2,1,1,0,1,0,1,0,0,2,1,1,2,1,1,0,0,0.52,0.26,0.26,0.53,0,347,0.52,174,87,0,347,0
+Yannick Carrasco,27,UEFA Euro Championship,2016,Midfielder,Belgium,216,79,137,Belgium,5,2,3,1,0,1,0,0,0,0,0,3,1,2,1,0,1,0,0,0.42,0,0.42,0,0.66,216,0.42,216,43,0,0,0
+Zoltan Gera,41,UEFA Euro Championship,2016,Forward,Hungary,272,92,180,Hungary,4,2,2,1,1,0,0,0,0,0,0,1,0,1,3,2,1,1,0,0.33,0,0.33,0.98,0,272,0.99,91,68,272,0,0.33
+Zoltan Stieber,32,UEFA Euro Championship,2016,Midfielder,Hungary,84,7,77,Hungary,3,1,2,1,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1.07,0,1.07,0,1.17,84,1.07,84,28,0,0,0
