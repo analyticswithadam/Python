@@ -9,7 +9,7 @@ import googleapiclient.errors
 # Initialize the YouTube API
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyA9EZAj9dLBU0diuQVsNYCgXosLI2mukMY"
+DEVELOPER_KEY = "*************"
 
 youtube = googleapiclient.discovery.build(
     api_service_name, 
@@ -83,7 +83,7 @@ def save_file(df, video_title):
     clean_title = clean_title.replace(' ', '_') #replace spaces with _
 
     #Create the full path and filename with today's date and part of video title
-    save_path = ''
+    save_path = '*********'
     filename = os.path.join(save_path, f'youtube_{clean_title}_{today}.csv')
     #Save the dataframe to CSV
     print(f"Youtube Video Comments saved to {filename}")
