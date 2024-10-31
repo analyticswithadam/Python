@@ -83,7 +83,7 @@ def save_file(df, video_title):
     clean_title = clean_title.replace(' ', '_') #replace spaces with _
 
     #Create the full path and filename with today's date and part of video title
-    save_path = '/Users/lawhea1214/Documents/Udacity/Political_News_2024/Social_Data'
+    save_path = ''
     filename = os.path.join(save_path, f'youtube_{clean_title}_{today}.csv')
     #Save the dataframe to CSV
     print(f"Youtube Video Comments saved to {filename}")
